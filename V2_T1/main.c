@@ -14,11 +14,11 @@ int main()
 
     if (nmr<10)
     {
-        printf("Annoit luvun joka pienempi kuin kymmenen\n");
+        printf("Annoit luvun joka on pienempi kuin kymmenen\n");
     }
     else if(nmr==10)
     {
-        printf("Annoit numeron kymmenen\n");
+        printf("Annoit luvun kymmenen\n");
     }
     else
     {
